@@ -23,7 +23,7 @@ The types of events that can call JavaScript include <br>
 * leaving the page, 
 * interacting with a form element in some way, 
 * clicking a link, or even just 
- *scrolling up or down. 
+ *scrolling up or down. <br>
 Plenty of other events are available, too.<br>
 Let's start with a classic Browser Console image <br/>
 <img src="images/javascript-and-browser-console.png" alt="" width="900px">
