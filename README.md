@@ -26,7 +26,8 @@ Plenty of other events are available, too.<br>
 <img src="images/javascript-and-browser-console.png" alt="" width="900px">
 ## Addition example
 The image above shows one small example of what can be done with JavaScript<br>
-![addition](https://github.com/danielurra/javascript/assets/51704179/f5c634ab-3b9c-42d3-8958-0d56e8809411)<br>
+![addition](https://github.com/danielurra/javascript/assets/51704179/62264941-ee3e-4fe4-8db0-659228b1b385)
+
 ## Grab the HTML code
 ```html
 <!DOCTYPE html>
