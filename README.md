@@ -12,7 +12,7 @@ It’s useful because it enables the developer to manipulate the contents of a w
 Loading resources on demand for performance reasons, or building full-blown user interfaces that resemble desktop applications.<br>
 JavaScript uses what’s referred to as an `event-driven` model of execution. When you embed JavaScript code in a web page, <br>
 it isn’t run until the event it’s associated with is triggered.<br>
-This integration allows programmers to manipulate various aspects of the browser behavior, as well as objects included on the page.<br>
+The browser integration allows programmers to manipulate various aspects of the browser behavior, as well as objects included on the page.<br>
 JavaScript uses what’s referred to as an event-driven model of execution. <br>
 When you embed JavaScript code in a web page, it isn’t run until the event it’s associated with is triggered.<br>
 The types of events that can call JavaScript include:<br>
