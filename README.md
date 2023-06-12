@@ -1,6 +1,6 @@
 ## JavaScript
 ![Javascript_badge](https://github.com/danielurra/javascript/assets/51704179/8e7091d2-ef91-4762-878c-420ab4cd67b4)<br>
-JavaScript has nothing to do with Java they are two independent programming languages, JavaScript was created by Netscape<br>
+JavaScript has nothing to do with `Java` they are two independent programming languages, JavaScript was created by Netscape<br>
 it is basically the browser implementation of the specification ECMAScript<br>
 To the server, JavaScript code is merely text, just like HTML. To the web browser, however, this<br>
 text has special meaning that can be interpreted differently, JavaScript has become one of the pillars of the Web.<br>
