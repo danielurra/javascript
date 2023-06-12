@@ -23,10 +23,10 @@ The types of events that can call JavaScript include:<br>
 * Scrolling up or down
 Plenty of other events are available, too.<br>
 ## Browser Console<br/>
-<img src="images/javascript-and-browser-console.png" alt="" width="900px">
+<img src="images/javascript-and-browser-console.png" alt="" width="900px"><br>
 ## Addition example
 The image above shows one small example of what can be done with JavaScript<br>
-![addition](https://github.com/danielurra/javascript/assets/51704179/62264941-ee3e-4fe4-8db0-659228b1b385)
+![addition](https://github.com/danielurra/javascript/assets/51704179/62264941-ee3e-4fe4-8db0-659228b1b385)<br>
 
 ## Grab the HTML code
 ```html
