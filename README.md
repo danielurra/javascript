@@ -22,5 +22,45 @@ The types of events that can call JavaScript include:<br>
 * Clicking a link
 * Scrolling up or down
 Plenty of other events are available, too.<br>
-## Let's start with a classic Browser Console image <br/>
+## Browser Console<br/>
 <img src="images/javascript-and-browser-console.png" alt="" width="900px">
+## Addition example
+The image above shows one small example of what can be done with JavaScript<br>
+![addition](https://github.com/danielurra/javascript/assets/51704179/f5c634ab-3b9c-42d3-8958-0d56e8809411)<br>
+## Grab the HTML code
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>JavaScript</title>
+    <script src="untyped-mitigation.js" defer></script>
+  </head>
+  <body>
+    <input type="number" id="num1" placeholder="Number 1" />
+    <input type="number" id="num2" placeholder="Number 2" />
+    <button>Addition</button>
+  </body>
+</html>
+```
+## Grab the JavaScript code
+```javascript
+const button = document.querySelector("button");
+const input1 = document.getElementById("num1");
+const input2 = document.getElementById("num2");
+
+function add(num1, num2) {
+  if ( typeof num1 === 'Number' && typeof num2 === 'Number' ){
+
+    return num1 + num2;
+  } else {
+    return +num1 + +num2;
+  }
+}
+
+button.addEventListener("click", function() {
+  console.log(add(input1.value, input2.value));
+});
+```
