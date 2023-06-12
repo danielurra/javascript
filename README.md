@@ -17,12 +17,12 @@ JavaScript is useful because it’s deeply integrated with the browser.<br>
 This integration allows programmers to manipulate various aspects of the browser behavior, as well as objects included on the page.<br>
 JavaScript uses what’s referred to as an event-driven model of execution. <br>
 When you embed JavaScript code in a web page, it isn’t run until the event it’s associated with is triggered.<br>
-The types of events that can call JavaScript include <br>
-* loading the page, 
-* leaving the page, 
-* interacting with a form element in some way, 
-* clicking a link, or even just 
-* scrolling up or down. <br>
+The types of events that can call JavaScript include:<br>
+* Loading the page
+* Leaving the page
+* Interacting with a form element
+* Clicking a link
+* Scrolling up or down
 Plenty of other events are available, too.<br>
 ## Let's start with a classic Browser Console image <br/>
 <img src="images/javascript-and-browser-console.png" alt="" width="900px">
