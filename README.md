@@ -4,7 +4,7 @@ JavaScript has nothing to do with Java they are two independent programming lang
 JavaScript was created by Netscape, it is basically the browser implementation of the specification ECMAScript<br>
 To the server, JavaScript code is merely text, just like HTML. To the web browser, however, this<br>
 text has special meaning that can be interpreted differently, JavaScript has become one of the pillars of the Web.<br>
-You can write *client-side* programs to be executed in the web browser<br>
+You can write **client-side** programs to be executed in the web browser<br>
 Modern browsers support core JavaScript, DOM manipulation, the XmlHttpRequest object (used to make Ajax requests), and basic CSS. <br>
 In sum, modern browsers are capable of making the most of today’s dynamic Web technologies. <br>
 JavaScript changes the browser from an application for displaying documents to a platform for writing applications.<br>
