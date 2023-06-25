@@ -52,6 +52,7 @@ Notice that values are entered by filling two browser's input boxes but the resu
 </html>
 ```
 ## Grab the JavaScript code
+JavaScript is a loosely typed language, and it will automatically convert any value to a string when it needs to.<br>
 ```javascript
 const button = document.querySelector("button");
 const input1 = document.getElementById("num1");
