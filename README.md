@@ -54,8 +54,8 @@ Notice that values are entered by filling two browser's input boxes but the resu
 ## Working with numbers in JavaScript 
 Do NOT fall into the wrong data type when working with numbers.<br>
 JavaScript is a **loosely-typed** scripting language, and it will automatically convert any value to a string when it needs to.<br>
-To avoid our numbers being considered as strings we must specify the right data type by using `typeof num === 'number'`.<br>
-If we do not take meticulous care of the data type, we may easily get in trouble and our numbers will be **concatenated instead of added**.<br>
+To avoid our numbers being considered as strings we must specify the right **data type** by using `typeof num === 'number'`.<br>
+If we do not take meticulous care of the **data type**, we may easily get in trouble and our numbers will be **concatenated instead of added**.<br>
 ```javascript
 const button = document.querySelector("button");
 const input1 = document.getElementById("num1");
