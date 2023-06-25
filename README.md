@@ -73,3 +73,13 @@ button.addEventListener("click", function() {
   console.log(add(input1.value, input2.value));
 });
 ```
+## You better test, never assume anything
+We can make use of "typeof" to test and see if we are getting the wrong data type.<br>
+```javascript
+function calculateValue(num) {
+ if (typeof num !== 'number') {
+ throw new TypeError(`Value [${num}] is not a
+number.`);
+ }
+}
+```
