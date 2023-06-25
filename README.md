@@ -4,7 +4,7 @@
 To the server, JavaScript code is merely text, just like HTML. To the web browser, however, this<br>
 text has special meaning that can be interpreted differently, JavaScript has become one of the pillars of the Web.<br>
 You can write **client-side** programs to be executed in the web browser, JavaScript is useful because it’s deeply integrated with the browser.<br>
-Modern browsers support core JavaScript, DOM manipulation, the XmlHttpRequest object (used to make Ajax requests), and basic CSS. <br>
+Modern browsers support core JavaScript, **DOM** manipulation, the XmlHttpRequest object (used to make Ajax requests), and basic CSS. <br>
 In sum, modern browsers are capable of making the most of today’s dynamic Web technologies. <br>
 It’s useful because it enables the developer to manipulate the contents of a web page after it has loaded, making it possible<br>
  to provide users with instant feedback when they make a change in a form.<br>
