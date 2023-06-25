@@ -6,7 +6,6 @@ text has special meaning that can be interpreted differently, JavaScript has bec
 You can write **client-side** programs to be executed in the web browser, JavaScript is useful because it’s deeply integrated with the browser.<br>
 Modern browsers support core JavaScript, DOM manipulation, the XmlHttpRequest object (used to make Ajax requests), and basic CSS. <br>
 In sum, modern browsers are capable of making the most of today’s dynamic Web technologies. <br>
-JavaScript changes the browser from an application for displaying documents to a platform for writing applications.<br>
 It’s useful because it enables the developer to manipulate the contents of a web page after it has loaded, making it possible<br>
  to provide users with instant feedback when they make a change in a form.<br>
 Loading resources on demand for performance reasons, or building full-blown user interfaces that resemble desktop applications.<br>
@@ -26,7 +25,8 @@ Plenty of other events are available, too.<br>
 JavaScript has migrated to the backend with `Node.js` or `Deno`<br>
 ![backend-Node-Deno](https://github.com/danielurra/javascript/assets/51704179/dee36d49-3348-4125-a491-7bd0beae2a78)<br>
 
-## Browser Console<br/>
+## Browser Console
+JavaScript changes the browser from an application for displaying documents to a platform for writing applications.<br>
 <img src="images/javascript-and-browser-console.png" alt="" width="900px"><br>
 ## Addition example
 The image below shows one small example of what can be done with JavaScript<br>
