@@ -74,7 +74,7 @@ button.addEventListener("click", function() {
 });
 ```
 ## You better test, never assume anything
-We can make use of **"typeof"** to test and see if we are getting the wrong data type.<br>
+We can make use of **"typeof"** operator to test and see if we are getting the wrong data type.<br>
 ```javascript
 function calculateValue(num) {
  if (typeof num !== 'number') {
