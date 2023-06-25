@@ -24,6 +24,7 @@ The types of events that can call JavaScript include:<br>
 Plenty of other events are available, too.<br>
 ## Backend
 JavaScript has migrated to the backend with Node.js or Deno<br>
+![backend-Node-Deno](https://github.com/danielurra/javascript/assets/51704179/dee36d49-3348-4125-a491-7bd0beae2a78)<br>
 
 ## Browser Console<br/>
 <img src="images/javascript-and-browser-console.png" alt="" width="900px"><br>
