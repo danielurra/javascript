@@ -51,7 +51,7 @@ Notice that values are entered by filling two browser's input boxes but the resu
   </body>
 </html>
 ```
-## Grab the JavaScript code
+## Working with numbers in JavaScript, do not fall into the wrong data type 
 JavaScript is a **loosely-typed** scripting language, and it will automatically convert any value to a string when it needs to.<br>
 To avoid our numbers being considered as strings we must specify the right data type by using `typeof num === 'number'`.
 If we do not take care we may get into the common error where numbers are **concatenated instead of added**.<br>
