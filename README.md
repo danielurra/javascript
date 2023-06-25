@@ -22,7 +22,7 @@ The types of events that can call JavaScript include:<br>
 * Clicking a link
 * Scrolling up or down
 Plenty of other events are available, too.<br>
-## Backend
+## From the Browser to the Backend
 JavaScript has migrated to the backend with `Node.js` or `Deno`<br>
 ![backend-Node-Deno](https://github.com/danielurra/javascript/assets/51704179/dee36d49-3348-4125-a491-7bd0beae2a78)<br>
 
