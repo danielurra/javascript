@@ -78,8 +78,7 @@ We can make use of "typeof" to test and see if we are getting the wrong data typ
 ```javascript
 function calculateValue(num) {
  if (typeof num !== 'number') {
- throw new TypeError(`Value [${num}] is not a
-number.`);
+ throw new TypeError(`Value [${num}] is not a number.`);
  }
 }
 ```
