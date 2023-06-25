@@ -25,11 +25,12 @@ Plenty of other events are available, too.<br>
 JavaScript has expanded to the backend with `Node.js` or `Deno`<br>
 ![backend-Node-Deno](https://github.com/danielurra/javascript/assets/51704179/dee36d49-3348-4125-a491-7bd0beae2a78)<br>
 
-## Browser Console
+## Browser Console - press F12
 JavaScript changes the browser from an application for displaying documents to a platform for writing applications.<br>
 <img src="images/javascript-and-browser-console.png" alt="" width="900px"><br>
 ## Addition example
 The image below shows one small example of what can be done with JavaScript<br>
+Notice that values are entered by filling two browsers input boxes but the result is only shown in the browser console<br>
 ![addition](https://github.com/danielurra/javascript/assets/51704179/62264941-ee3e-4fe4-8db0-659228b1b385)<br>
 
 ## Grab the HTML code
