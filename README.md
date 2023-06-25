@@ -30,7 +30,7 @@ JavaScript changes the browser from an application for displaying documents to a
 <img src="images/javascript-and-browser-console.png" alt="" width="900px"><br>
 ## Addition example
 The image below shows one small example of what can be done with JavaScript<br>
-Notice that values are entered by filling two browsers input boxes but the result is only shown in the browser console<br>
+Notice that values are entered by filling two browser's input boxes but the result is only shown in the browser console<br>
 ![addition](https://github.com/danielurra/javascript/assets/51704179/62264941-ee3e-4fe4-8db0-659228b1b385)<br>
 
 ## Grab the HTML code
