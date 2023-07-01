@@ -21,9 +21,6 @@ The types of events that can call JavaScript include:<br>
 * Clicking a link
 * Scrolling up or down
 Plenty of other events are available, too.<br>
-## From the Browser to the Backend
-JavaScript has expanded to the backend with `Node.js` or `Deno`<br>
-![backend-Node-Deno](https://github.com/danielurra/javascript/assets/51704179/dee36d49-3348-4125-a491-7bd0beae2a78)<br>
 
 ## Browser interpreting JavaScript
 ```javascript
@@ -34,6 +31,10 @@ document.body.innerHTML = "Hello World"
 ## Browser Console - press F12
 JavaScript changes the browser from an application for displaying documents to a platform for writing applications.<br>
 <img src="images/javascript-and-browser-console.png" alt="" width="900px"><br>
+
+## From the Browser to the Backend
+JavaScript has expanded to the backend with `Node.js` or `Deno`<br>
+![backend-Node-Deno](https://github.com/danielurra/javascript/assets/51704179/dee36d49-3348-4125-a491-7bd0beae2a78)<br>
 ## Addition example
 The image below shows one small example of what can be done with JavaScript<br>
 Notice that values are entered by filling two browser's input boxes but the result is only shown in the browser console (F12)<br>
