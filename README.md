@@ -25,6 +25,12 @@ Plenty of other events are available, too.<br>
 JavaScript has expanded to the backend with `Node.js` or `Deno`<br>
 ![backend-Node-Deno](https://github.com/danielurra/javascript/assets/51704179/dee36d49-3348-4125-a491-7bd0beae2a78)<br>
 
+## Browser interpreting JavaScript
+```javascript
+document.body.innerHTML = "Hello World"
+```
+![document body innerhtml](https://github.com/danielurra/javascript/assets/51704179/9420ff43-a156-4a1e-9d6a-c905f2271933)
+
 ## Browser Console - press F12
 JavaScript changes the browser from an application for displaying documents to a platform for writing applications.<br>
 <img src="images/javascript-and-browser-console.png" alt="" width="900px"><br>
