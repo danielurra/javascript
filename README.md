@@ -22,7 +22,8 @@ The types of events that can call JavaScript include:<br>
 * Scrolling up or down
 Plenty of other events are available, too.<br>
 
-## Browser interpreting JavaScript - Document object
+## Document object
+Browser interpreting JavaScript<br>
 ```javascript
 document.body.innerHTML = "Hello World"
 ```
