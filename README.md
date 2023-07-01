@@ -30,7 +30,7 @@ document.body.innerHTML = "Hello World"
 The **innerHTML** will give you basically everything, all the HTML, which is inside the element.<br>
 That's how we can insert HTML, **innerHTML** property of the `document.body` element's HTML.
 ## Window object
-Type window and press enter to see the window object along with a long list of its methods.<br>
+Type **window** and press enter to see the `window object` along with a long list of its **methods**.<br>
 ![window-object](https://github.com/danielurra/javascript/assets/51704179/d2837180-6b39-44b9-ad8f-621e6522ec19)<br>
 
 ## Browser Console - press F12
