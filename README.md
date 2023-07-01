@@ -28,6 +28,11 @@ console.dir(document)
 ```
 ![document-object](https://github.com/danielurra/javascript/assets/51704179/12aa61eb-11e3-4362-b5b0-887c8408c4e2)
 
+
+## Window object
+Type **window** and press enter to see the `window object` along with a long list of **methods** and **properties**.<br>
+![window-object](https://github.com/danielurra/javascript/assets/51704179/d2837180-6b39-44b9-ad8f-621e6522ec19)<br>
+
 ## Browser interpreting JavaScript<br>
 ```javascript
 document.body.innerHTML = "Hello World"
@@ -35,9 +40,6 @@ document.body.innerHTML = "Hello World"
 ![document body innerhtml](https://github.com/danielurra/javascript/assets/51704179/9420ff43-a156-4a1e-9d6a-c905f2271933)<br>
 The **innerHTML** will give you basically everything, all the HTML, which is inside the element.<br>
 That's how we can insert HTML, **innerHTML** property of the `document.body` element's HTML.
-## Window object
-Type **window** and press enter to see the `window object` along with a long list of **methods** and **properties**.<br>
-![window-object](https://github.com/danielurra/javascript/assets/51704179/d2837180-6b39-44b9-ad8f-621e6522ec19)<br>
 
 ## Browser Console - press F12
 JavaScript changes the browser from an application for displaying documents to a platform for writing applications.<br>
