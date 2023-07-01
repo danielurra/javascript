@@ -23,7 +23,12 @@ The types of events that can call JavaScript include:<br>
 Plenty of other events are available, too.<br>
 
 ## Document object
-Browser interpreting JavaScript<br>
+```javascript
+console.dir(document)
+```
+![document-object](https://github.com/danielurra/javascript/assets/51704179/12aa61eb-11e3-4362-b5b0-887c8408c4e2)
+
+## Browser interpreting JavaScript<br>
 ```javascript
 document.body.innerHTML = "Hello World"
 ```
