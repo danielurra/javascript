@@ -3,8 +3,8 @@
 
 ![Javascript_badge](https://github.com/danielurra/javascript/assets/51704179/8e7091d2-ef91-4762-878c-420ab4cd67b4)<br>
 `JavaScript` has nothing to do with `Java` they are two independent programming languages, JavaScript was created by Netscape<br>
-To the server, JavaScript code is merely text, just like HTML. To the web browser, however, this<br>
-text has special meaning that can be interpreted differently, JavaScript has become one of the pillars of the Web.<br>
+To the server, JavaScript code is merely text, just like HTML. To the web browser, however, this text has special meaning <br>
+that can be interpreted differently, JavaScript has become one of the pillars of the Web.<br>
 You can write **client-side** programs to be executed in the web browser, JavaScript is useful because it’s deeply integrated with the browser.<br>
 Modern browsers support core JavaScript, **DOM** manipulation, the XmlHttpRequest object (used to make Ajax requests), and basic CSS. <br>
 In sum, modern browsers are capable of making the most of today’s dynamic Web technologies. <br>
