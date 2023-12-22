@@ -40,6 +40,9 @@ window.history.back();
 Type **document** and press enter to see the `document object` along with a long list of **methods** and **properties**.<br>
 <img width="1339" alt="document-body-v2" src="https://github.com/danielurra/javascript/assets/51704179/0ed5a155-024a-4da7-9ca7-0bfb9a726527"><br>
 Another way would be to start from the top level(window) and after that **document**:<br>
+```javascript
+window.document
+```
 <img width="1339" alt="window document" src="https://github.com/danielurra/javascript/assets/51704179/007caf4c-fced-45cc-b49f-5434c1ff02d6">
 
 ## Browser interpreting JavaScript<br>
