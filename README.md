@@ -24,17 +24,15 @@ The types of events that can call JavaScript include:<br>
 * Scrolling up or down
 Plenty of other events are available, too.<br>
 
+## Window object
+Type **window** and press enter to see the `window object` along with a long list of **methods** and **properties**.<br>
+![window-object](https://github.com/danielurra/javascript/assets/51704179/d2837180-6b39-44b9-ad8f-621e6522ec19)<br>
+
 ## Document object
 ```javascript
 console.dir(document)
 ```
 ![document-object](https://github.com/danielurra/javascript/assets/51704179/12aa61eb-11e3-4362-b5b0-887c8408c4e2)
-
-
-## Window object
-Type **window** and press enter to see the `window object` along with a long list of **methods** and **properties**.<br>
-![window-object](https://github.com/danielurra/javascript/assets/51704179/d2837180-6b39-44b9-ad8f-621e6522ec19)<br>
-
 ## Browser interpreting JavaScript<br>
 ```javascript
 document.body.innerHTML = "Hello World"
