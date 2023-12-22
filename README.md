@@ -31,6 +31,9 @@ Just as an example if you want to use the console to go back to the previous pag
 ```javascript
 window.history.back();
 ```
+<img width="502" alt="window-history-back" src="https://github.com/danielurra/javascript/assets/51704179/13f53c01-4433-4c4d-bcf5-8a59a900df81"><br>
+<img width="503" alt="window-history-back-02" src="https://github.com/danielurra/javascript/assets/51704179/fff1b064-44bc-4ddd-a698-7167368a51a7"><br>
+
 
 
 ## Document object and its body
