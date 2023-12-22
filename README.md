@@ -32,6 +32,7 @@ Type **window** and press enter to see the `window object` along with a long lis
 ```javascript
 console.dir(document)
 ```
+Or simple type **"document"**
 ![document-object](https://github.com/danielurra/javascript/assets/51704179/12aa61eb-11e3-4362-b5b0-887c8408c4e2)
 ## Browser interpreting JavaScript<br>
 ```javascript
