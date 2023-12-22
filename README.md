@@ -24,7 +24,7 @@ The types of events that can call JavaScript include:<br>
 * Scrolling up or down
 Plenty of other events are available, too.<br>
 
-## Window object - Hierarchy top level
+## Window object - top level of the DOM Hierarchy
 Type **window** and press enter to see the `window object` along with a long list of **methods** and **properties**.<br>
 ![window-object](https://github.com/danielurra/javascript/assets/51704179/d2837180-6b39-44b9-ad8f-621e6522ec19)<br>
 Just as an example if you want to use the console to go back to the previous page, then you can use the following command:<br>
@@ -39,6 +39,8 @@ window.history.back();
 ## Document object and its body
 Type **document** and press enter to see the `document object` along with a long list of **methods** and **properties**.<br>
 <img width="1339" alt="document-body-v2" src="https://github.com/danielurra/javascript/assets/51704179/0ed5a155-024a-4da7-9ca7-0bfb9a726527"><br>
+Another way would be to start from the top level(window) and after that **document**:<br>
+<img width="1339" alt="window document" src="https://github.com/danielurra/javascript/assets/51704179/007caf4c-fced-45cc-b49f-5434c1ff02d6">
 
 ## Browser interpreting JavaScript<br>
 ```javascript
