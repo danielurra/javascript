@@ -29,10 +29,11 @@ Type **window** and press enter to see the `window object` along with a long lis
 ![window-object](https://github.com/danielurra/javascript/assets/51704179/d2837180-6b39-44b9-ad8f-621e6522ec19)<br>
 
 ## Document object
+Type **document** and press enter to see the `window object` along with a long list of **methods** and **properties**.<br>
+Another way would be as below:<br>
 ```javascript
 console.dir(document)
 ```
-Or simple type **"document"**
 ![document-object](https://github.com/danielurra/javascript/assets/51704179/12aa61eb-11e3-4362-b5b0-887c8408c4e2)
 ## Browser interpreting JavaScript<br>
 ```javascript
