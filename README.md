@@ -38,6 +38,8 @@ window.history.back();
 
 ## Document object and its body
 Type **document** and press enter to see the `document object` along with a long list of **methods** and **properties**.<br>
+<img width="1339" alt="document-body" src="https://github.com/danielurra/javascript/assets/51704179/22228727-93d5-4b25-9cd0-ac82d45e8264"><br>
+
 Another way would be as below:<br>
 ```javascript
 console.dir(document)
