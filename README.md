@@ -37,13 +37,19 @@ window.history.back();
 
 
 ## Document object and its body
-Type **document** and press enter to see the `document object` along with a long list of **methods** and **properties**.<br>
+Type **document** and press enter to see the `document object`<br>
 <img width="1339" alt="document-body-v2" src="https://github.com/danielurra/javascript/assets/51704179/0ed5a155-024a-4da7-9ca7-0bfb9a726527"><br>
 Another way would be to start from the top level(window) and after that **document**:<br>
 ```javascript
 window.document
 ```
-<img width="1339" alt="window document" src="https://github.com/danielurra/javascript/assets/51704179/007caf4c-fced-45cc-b49f-5434c1ff02d6">
+<img width="1339" alt="window document" src="https://github.com/danielurra/javascript/assets/51704179/007caf4c-fced-45cc-b49f-5434c1ff02d6"><br>
+## Document object methods and properties
+Use the following command to see a long list of methods and properties of the document object:<br>
+```javascript
+console.dir(document);
+```
+<img width="349" alt="console-dir" src="https://github.com/danielurra/javascript/assets/51704179/b74d8eca-c110-4cac-83a7-0a87641ec5d2"><br>
 
 ## Browser interpreting JavaScript<br>
 ```javascript
