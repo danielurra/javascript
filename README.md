@@ -6,11 +6,6 @@
 To the server, JavaScript code is merely text, just like HTML. To the web browser, however, this text has special meaning <br>
 that can be interpreted differently, JavaScript has become one of the pillars of the Web.<br>
 You can write **client-side** programs to be executed in the web browser, JavaScript is useful because it’s deeply integrated with the browser.<br>
-Modern browsers support core JavaScript, **DOM** manipulation, the XmlHttpRequest object (used to make Ajax requests), and basic CSS. <br>
-In sum, modern browsers are capable of making the most of today’s dynamic Web technologies. <br>
-It’s useful because it enables the developer to manipulate the contents of a web page after it has loaded, making it possible<br>
- to provide users with instant feedback when they make a change in a form.<br>
-Loading resources on demand for performance reasons, or building full-blown user interfaces that resemble desktop applications.<br>
 JavaScript uses what’s referred to as an `event-driven` model of execution. When you embed JavaScript code in a web page, <br>
 it isn’t run until the event it’s associated with is triggered.<br>
 The browser integration allows programmers to manipulate various aspects of the browser behavior, as well as objects included on the page.<br>
@@ -23,6 +18,12 @@ The types of events that can call JavaScript include:<br>
 * Clicking a link
 * Scrolling up or down
 Plenty of other events are available, too.<br>
+## Document Object Model - DOM
+Modern browsers support core JavaScript, **DOM** manipulation, the XmlHttpRequest object (used to make Ajax requests), and basic CSS. <br>
+In sum, modern browsers are capable of making the most of today’s dynamic Web technologies. <br>
+It’s useful because it enables the developer to manipulate the contents of a web page after it has loaded, making it possible<br>
+ to provide users with instant feedback when they make a change in a form.<br>
+Loading resources on demand for performance reasons, or building full-blown user interfaces that resemble desktop applications.<br>
 
 ## Window object - top level of the DOM Hierarchy
 Type **window** and press enter to see the `window object` along with a long list of **methods** and **properties**.<br>
