@@ -28,7 +28,7 @@ Plenty of other events are available, too.<br>
 Type **window** and press enter to see the `window object` along with a long list of **methods** and **properties**.<br>
 ![window-object](https://github.com/danielurra/javascript/assets/51704179/d2837180-6b39-44b9-ad8f-621e6522ec19)<br>
 
-## Document object
+## Document object and its body
 Type **document** and press enter to see the `document object` along with a long list of **methods** and **properties**.<br>
 Another way would be as below:<br>
 ```javascript
