@@ -24,6 +24,7 @@ When you use one og the following frameworks:
 * Angular
 * Vue
 * React<br>
+
 Or any other library or framework to create modern web applications, the DOM is what these frameworks use under the hood.<br>
 In sum, modern browsers are capable of making the most of today’s dynamic Web technologies. <br>
 It’s useful because it enables the developer to manipulate the contents of a web page after it has loaded, making it possible<br>
