@@ -9,8 +9,6 @@ You can write **client-side** programs to be executed in the web browser, JavaSc
 JavaScript uses what’s referred to as an `event-driven` model of execution. When you embed JavaScript code in a web page, <br>
 it isn’t run until the event it’s associated with is triggered.<br>
 The browser integration allows programmers to manipulate various aspects of the browser behavior, as well as objects included on the page.<br>
-JavaScript uses what’s referred to as an event-driven model of execution. <br>
-When you embed JavaScript code in a web page, it isn’t run until the event it’s associated with is triggered.<br>
 The types of events that can call JavaScript include:<br>
 * Loading the page
 * Leaving the page
