@@ -15,6 +15,7 @@ The types of events that can call JavaScript include:<br>
 * Interacting with a form element
 * Clicking a link
 * Scrolling up or down<br>
+
 Plenty of other events are available, too.<br>
 ## Document Object Model - DOM
 Modern browsers support core JavaScript, **DOM** manipulation, the XmlHttpRequest object (used to make Ajax requests), and basic CSS. <br>
