@@ -19,6 +19,7 @@ The types of events that can call JavaScript include:<br>
 Plenty of other events are available, too.<br>
 ## Document Object Model - DOM
 The **Document Object Model (DOM)** is the data representation of the objects that comprise the structure and content of a document on the web.<br>
+This model allows JavaScript (and other languages too) to access elements & text.<br>
 Modern browsers support core JavaScript, **DOM** manipulation, the XmlHttpRequest object (used to make Ajax requests), and basic CSS. <br>
 When you use one of the following frameworks:
 * Angular
