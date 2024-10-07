@@ -121,6 +121,11 @@ button.addEventListener("click", function() {
   console.log(add(input1.value, input2.value));
 });
 ```
+Else block (when one or both arguments are not numbers):
+
+If either num1 or num2 is not a number (for example, if one of them is a string), the else block is executed.
+In this case, both num1 and num2 are converted to numbers using the unary + operator:
+
 ## You better test, never assume anything
 We can make use of **"typeof"** operator to test and see if we are getting the wrong data type.<br>
 ```javascript
