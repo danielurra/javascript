@@ -124,7 +124,15 @@ button.addEventListener("click", function() {
 Else block (when one or both arguments are not numbers):
 
 If either num1 or num2 is not a number (for example, if one of them is a string), the else block is executed.
-In this case, both num1 and num2 are converted to numbers using the unary + operator:
+In this case, both num1 and num2 are converted to numbers using the unary + operator.
+This conversion allows the function to handle values that are strings but represent numbers, such as '5' being converted to 5 before adding.
+Example:
+If you pass 5 and 10 as arguments, the function will add them directly and return 15.
+If you pass '5' (a string) and 10, the function will convert the string '5' into the number 5 and return 15.
+## Summary:
+If both arguments are numbers, the function adds them directly.
+If one or both arguments are not numbers, the function tries to convert them into numbers before adding.
+This allows for more flexibility in handling inputs, even when they are strings that represent numbers.
 
 ## You better test, never assume anything
 We can make use of **"typeof"** operator to test and see if we are getting the wrong data type.<br>
