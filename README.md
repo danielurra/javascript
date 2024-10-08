@@ -137,9 +137,13 @@ This allows for more flexibility in handling inputs, even when they are strings 
 ## You better test, never assume anything
 We can make use of **"typeof"** operator to test and see if we are getting the wrong data type.<br>
 ```javascript
-function calculateValue(num) {
- if (typeof num !== 'number') {
- throw new TypeError(`Value [${num}] is not a number.`);
- }
+function calculateValue(input) {
+  if (typeof input !== "number") {
+       throw new TypeError(`Invalid input: Expected a number but received a value of type [${typeof input}] with value [${input}]. Please provide a valid number.`);
+    } else {
+      return `Value [${input}] is a number.`;
+    }
 }
 ```
+![function-test-typeof](https://github.com/user-attachments/assets/c88f97fc-f770-41bf-b86d-4772087457e4)
+
