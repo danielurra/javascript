@@ -104,7 +104,7 @@ We can check the **data type** by using `typeof num === 'number'`.<br>
 ![typeof_num_number](https://github.com/danielurra/javascript/assets/51704179/e23827c1-f552-403c-9e2c-c8646e9bb482)<br>
 If we do not take meticulous care of the **data type**, we may easily get in trouble and our numbers will be **concatenated instead of added**.<br>
 ```javascript
-const button = document.querySelector("button");
+const buttonAddition = document.getElementById("buttonAddition");
 const input1 = document.getElementById("num1");
 const input2 = document.getElementById("num2");
 
@@ -116,7 +116,7 @@ function add(num1, num2) {
   }
 }
 
-button.addEventListener("click", function() {
+buttonAddition.addEventListener("click", function() {
   console.log(input1.value);
   console.log(input2.value);
   console.log(add(input1.value, input2.value));
