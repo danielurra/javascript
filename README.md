@@ -87,8 +87,8 @@ Notice that values are entered by filling two browser's input boxes but the resu
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>JavaScript</title>
-    <script src="untyped-mitigation.js" defer></script>
+    <title>Check typeof</title>
+    <script src="./js-code.js" defer></script>
   </head>
   <body>
     <input type="number" id="num1" placeholder="Number 1" />
