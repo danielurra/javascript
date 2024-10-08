@@ -80,6 +80,12 @@ JavaScript has expanded to the backend with `Node.js` or `Deno`<br>
 The image below shows one small example of what can be done with JavaScript<br>
 Notice that values are entered by filling two browser's input boxes but the result is only shown in the browser console (F12)<br>
 ![addition-animation](https://github.com/user-attachments/assets/89b304a7-aa50-4fac-af6a-145f8f16ec4d)
+## Working with numbers in JavaScript 
+Do NOT fall into the wrong **data type** when working with numbers.<br>
+JavaScript is a **loosely-typed** scripting language, and it will automatically convert any value to a string when it needs to.<br>
+We can check the **data type** by using `typeof num === 'number'`.<br>
+![typeof_num_number](https://github.com/danielurra/javascript/assets/51704179/e23827c1-f552-403c-9e2c-c8646e9bb482)<br>
+If we do not take meticulous care of the **data type**, we may easily get in trouble and our numbers will be **concatenated instead of added**.<br>
 ## Grab the HTML code
 ```html
 <!DOCTYPE html>
@@ -98,12 +104,6 @@ Notice that values are entered by filling two browser's input boxes but the resu
   </body>
 </html>
 ```
-## Working with numbers in JavaScript 
-Do NOT fall into the wrong **data type** when working with numbers.<br>
-JavaScript is a **loosely-typed** scripting language, and it will automatically convert any value to a string when it needs to.<br>
-We can check the **data type** by using `typeof num === 'number'`.<br>
-![typeof_num_number](https://github.com/danielurra/javascript/assets/51704179/e23827c1-f552-403c-9e2c-c8646e9bb482)<br>
-If we do not take meticulous care of the **data type**, we may easily get in trouble and our numbers will be **concatenated instead of added**.<br>
 ## Grab the Javascript code
 ```javascript
 const buttonAddition = document.getElementById("buttonAddition");
