@@ -76,8 +76,8 @@ JavaScript changes the browser from an application for displaying images and tex
 ## From the Browser to the Backend
 JavaScript has expanded to the backend with `Node.js` or `Deno`<br>
 ![backend-Node-Deno](https://github.com/danielurra/javascript/assets/51704179/dee36d49-3348-4125-a491-7bd0beae2a78)<br>
-## Addition example
-The image below shows one small example of what can be done with JavaScript<br>
+## Addition example (animation)
+The animation below shows one small example of what can be done with JavaScript<br>
 Notice that values are entered by filling two browser's input boxes but the result is only shown in the browser console (F12)<br>
 ![addition-animation](https://github.com/user-attachments/assets/89b304a7-aa50-4fac-af6a-145f8f16ec4d)
 ## Working with numbers in JavaScript 
