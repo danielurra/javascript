@@ -70,7 +70,7 @@ The **innerHTML** will give you basically everything, all the HTML, which is ins
 That's how we can insert HTML, **innerHTML** property of the `document.body` element's HTML.
 
 ## Browser Console - press F12
-JavaScript changes the browser from an application for displaying documents to a platform for writing applications.<br>
+JavaScript changes the browser from an application for displaying images and text to a platform for writing/coding applications.<br>
 <img src="images/javascript-and-browser-console.png" alt="" width="900px"><br>
 
 ## From the Browser to the Backend
