@@ -83,7 +83,7 @@ Notice that values are entered by filling two browser's input boxes but the resu
 ## Working with numbers in JavaScript 
 Do NOT fall into the wrong **data type** when working with numbers.<br>
 JavaScript is a **loosely-typed** scripting language, and it will automatically convert any value to a string when it needs to.<br>
-![typeof-operator](https://github.com/user-attachments/assets/38a0b090-f90a-4ceb-929d-b8f18bfff390)
+![typeof-operator](https://github.com/user-attachments/assets/38a0b090-f90a-4ceb-929d-b8f18bfff390)<br>
 We can check the **data type** by using `typeof num === 'number'`.<br>
 ![typeof_num_number](https://github.com/danielurra/javascript/assets/51704179/e23827c1-f552-403c-9e2c-c8646e9bb482)<br>
 If we do not take meticulous care of the **data type**, we may easily get in trouble and our numbers will be **concatenated instead of added**.<br>
