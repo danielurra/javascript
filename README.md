@@ -14,7 +14,8 @@ The types of events that can call JavaScript include:<br>
 * Leaving the page
 * Interacting with a form element
 * Clicking a link
-* Scrolling up or down<br>
+* Scrolling up or down
+* Etc, etc, etc.<br>
 
 Plenty of other events are available, too.<br>
 ## Document Object Model - DOM
