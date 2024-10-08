@@ -78,8 +78,7 @@ JavaScript has expanded to the backend with `Node.js` or `Deno`<br>
 ## Addition example
 The image below shows one small example of what can be done with JavaScript<br>
 Notice that values are entered by filling two browser's input boxes but the result is only shown in the browser console (F12)<br>
-![addition](https://github.com/danielurra/javascript/assets/51704179/62264941-ee3e-4fe4-8db0-659228b1b385)<br>
-
+![addition-animation](https://github.com/user-attachments/assets/89b304a7-aa50-4fac-af6a-145f8f16ec4d)
 ## Grab the HTML code
 ```html
 <!DOCTYPE html>
