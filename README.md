@@ -93,7 +93,7 @@ Notice that values are entered by filling two browser's input boxes but the resu
   <body>
     <input type="number" id="num1" placeholder="Number 1" />
     <input type="number" id="num2" placeholder="Number 2" />
-    <button>Addition</button>
+    <button id="buttonAddition">Addition</button>
   </body>
 </html>
 ```
