@@ -22,7 +22,7 @@ Plenty of other events are available, too.<br>
 The **Document Object Model (DOM)** is the data representation of the objects that comprise the structure and content of a document on the web.<br>
 This model allows JavaScript (and other languages too) to access elements & text.<br>
 Modern browsers support core JavaScript, **DOM** manipulation, the XmlHttpRequest object (used to make Ajax requests), and basic CSS. <br>
-When you use one of the following frameworks:
+When you use one of the following front-end frameworks:
 * Angular
 * Vue
 * React<br>
