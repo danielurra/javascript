@@ -118,6 +118,8 @@ function add(num1, num2) {
 }
 
 button.addEventListener("click", function() {
+  console.log(input1.value);
+  console.log(input2.value);
   console.log(add(input1.value, input2.value));
 });
 ```
